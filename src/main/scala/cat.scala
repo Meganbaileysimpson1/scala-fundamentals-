@@ -1,0 +1,1 @@
+case class Cat ( name : String) extends Pet
